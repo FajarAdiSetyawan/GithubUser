@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="finduser">Find Username</string>
+    <string name="text_search">Let\'s find your user</string>
+    <string name="no_result_found">Opss… No Result Found</string>
+    <string name="name">Full Name</string>
+    <string name="username">username</string>
+    <string name="location">Location</string>
+    <string name="blog">blog</string>
+    <string name="offline">Opss… You\'re Offline</string>
+    <string name="no_follower">\nDon\'t Have Followers</string>
+    <string name="no_following">\nNot Following Someone</string>
+    <string name="favorite">Favorite User</string>
+    <string name="empty_favorite">You don\'t have favorite user</string>
+    <string name="reminder">Reminder at 9.00 AM</string>
+    <string name="setting">Settings</string>
+    <string name="notification">notification</string>
+    <string name="notification_title">Github User</string>
+    <string name="notification_text">Let\'s find popular user on github</string>
+    <string name="success_add_favorite">Successfully added to favorites</string>
+    <string name="success_remove_favorite">Successfully removed from favorites</string>
+    <string name="reminder_off">Reminder is turned off</string>
+    <string name="reminder_on">Reminder is set at 9.00 AM</string>
+    <string name="follower">FOLLOWER</string>
+    <string name="following">FOLLOWING</string>
+    <string name="title_language">Change Language Settings</string>
+    <string name="summary_language">English</string>
+    <string name="language">language</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data">No Data</string>
+    <string name="Home">Home</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Settings">Settings</string>
+    <string name="tab_1">Following</string>
+    <string name="tab_2">Follower</string>
+    <string name="dailyreminder">Daily Reminder</string>
+    <string name="notifications">Notifications</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sapiente.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="follower_placeholder">0</string>
+    <string name="following_placeholder">0</string>
+    <string name="Repository">Repository</string>
+    <string name="about">About</string>
+    <string name="appversion">App Version</string>
+</resources>
